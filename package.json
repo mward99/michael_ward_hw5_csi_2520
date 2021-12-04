@@ -1,0 +1,22 @@
+{
+  "name": "homework-3",
+  "version": "1.0.0",
+  "description": "Homework 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mward99/MikeWard_hw2_csi2520_fs2021.git"
+  },
+  "keywords": [
+    "passport"
+  ],
+  "author": "Mike Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mward99/MikeWard_hw2_csi2520_fs2021/issues"
+  },
+  "homepage": "https://github.com/mward99/MikeWard_hw2_csi2520_fs2021#readme"
+}
